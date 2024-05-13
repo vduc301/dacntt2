@@ -1,1 +1,1 @@
-# Dự Án CNTT2: Xây dựng phần mềm doanh nghiệp trên nền tảng Java
+# Dự Án CNTT2: Xây dựng hệ thống quản lý chuỗi cung ứng Dược phẩm
